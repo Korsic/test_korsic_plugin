@@ -122,6 +122,7 @@ function include_template_function( $template_path ) {
 
 # Обрабатываем IP клиента
 work_korsic_ip_base (korsic_ip_get());
+
 # =========================================
 
 
